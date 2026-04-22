@@ -40,3 +40,4 @@ CMD node -e "require('http').get('http://localhost:3000/health', r => process.ex
 
 # TODO(step-4g): declare the container start command.
 CMD ["node", "src/index.js"]
+ 
